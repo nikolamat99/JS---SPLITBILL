@@ -6,7 +6,8 @@ _____________________
 
 TECHNOLOGIES USED:
 
-JavaScript
-CSS
-HTML
+- JavaScript
+- CSS
+- HTML
+
 PROJECT PREVIEW:https://nikolamat99.github.io/JS-SPLITBILL/
