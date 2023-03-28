@@ -10,4 +10,4 @@ TECHNOLOGIES USED:
 - CSS
 - HTML
 
-PROJECT PREVIEW:https://nikolamat99.github.io/JS-SPLITBILL/
+PROJECT PREVIEW: https://nikolamat99.github.io/JS-SPLITBILL/
